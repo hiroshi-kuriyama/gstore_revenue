@@ -1,0 +1,8 @@
+input/
+output/
+working/
+
+.ipynb_checkpoints/*
+.ipynb_checkpoints
+
+!.gitkeep
