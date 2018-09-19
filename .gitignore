@@ -1,6 +1,6 @@
 input/
 output/
-working/
+# working/
 
 .ipynb_checkpoints/*
 .ipynb_checkpoints
